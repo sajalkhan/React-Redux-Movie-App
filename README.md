@@ -1,4 +1,5 @@
-### Live project url: https://movie-search07.herokuapp.com/
+### Live project url-1: https://react-redux-movie-app.vercel.app/
+### Live project url-2: https://movie-search07.herokuapp.com/
 
 Demo
 ![image](https://user-images.githubusercontent.com/18021576/76519857-f4e37300-648b-11ea-96d6-71768d6af8b8.png)
